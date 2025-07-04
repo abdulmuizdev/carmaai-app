@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1013827202153",
+    "project_id": "carma-e4d6a",
+    "storage_bucket": "carma-e4d6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013827202153:android:44022bd5277b16b17846f8",
+        "android_client_info": {
+          "package_name": "com.abdulmuizdev.carma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013827202153-dghc764r8okgpgtrp3u8l75dpeqbr2qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE2E6qxiAkQ2oQ3sM3Yu3va4PfflTlXHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013827202153-dghc764r8okgpgtrp3u8l75dpeqbr2qk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1013827202153-3u91i9n1pqfl30je25vn44akam7eim6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abdulmuizdev.carma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
